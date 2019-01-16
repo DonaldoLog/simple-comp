@@ -5,11 +5,10 @@
 </template>
 
 <script>
-  import ComponenteLocal from './ComponenteLocal.vue'
+import ComponenteLocal from './ComponenteLocal.vue'
 export default {
-    components: {
-        ComponenteLocal
-    }
-    
+  components: {
+    ComponenteLocal
+  }
 }
 </script>
